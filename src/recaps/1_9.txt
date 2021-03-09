@@ -1,0 +1,16 @@
+s - 10 - Sokka:  [Frowning beside Aang and Katara's ecstatic faces.] Nice puddle.
+s - 32 - Scene Description:  Shows Katara and Aang by the shore.
+s - 35 - Aang:  Hey, I'm bending it already! [Shows Aang making much bigger waves than Katara's on his first try.]
+s - 39 - Katara:  This is a more difficult move. I call it streaming the water. [She moves her hands and raises a stream of water from the river into the air and moves it around.] It's harder than it looks, so don't be disappointed if- [Shows Aang already controlling a stream of water, moving it around and above his body and neatly coiling it back into the river, much to Katara's dismay.] Nice work. [She frowns.] Though the over-the-head flare was unnecessary.
+s - 78 - Aang:  Aye, we be casting off now! [Walks away.]
+m - 88 - Sokka:  [Turning a corner with Aang and Katara.] Whoa! [Katara freezes a puddle behind them that a pirate slips on.]
+s - 92 - Scene Description:  Cuts back to their camp by the river, where Aang, Sokka, and Katara stand by the shore.
+m - 96 - Aang:  No thanks. [Spins and hurls a blast of air at the pirates that send them backward, and runs toward them with his glider out.] Grab on tight!
+m - 98 - Katara:  Aang! I thought we were running away from the pirates! [Jumps on to Aang's glider with Sokka and they lift off into the air.]
+m - 117 - Katara:  [Angrily.] Aang will get his turn once I figure out the water whip. [She tries again, but hits Momo instead, who screeches.] Ugh, why can't I get this stupid move?
+m - 118 - Katara:  I just want to try this one move first and then it's all yours. [Gives it to Aang.] Here, hold it open for me. The single water whip. Looks doable. [Attempts the move, but ends up hitting herself in the forehead.] Ow!
+m - 120 - Aang:  You'll get it. [Katara glares at him.] You just gotta shift your weight through the stances. [He tries and does it perfectly on the first try.] There, see, the key to bending is�
+s - 168 - Scene Description:  Cuts to Aang and Katara pushing and pulling the water until the boat rises up.
+m - 186 - Katara:  [Pointing.] Aang, look! [The ship is shown headed toward a huge waterfall.]
+s - 192 - Oh:  That's good ... [Aang lands behind him and airbends him and the other pirate off the ship before jumping down to Sokka.]
+m - 193 - Katara:  We can stop the boat! Aang, together, push and pull the water! [They create a small Whirlpool that stops the boat.] It's working, it's slowing down! We're doing it!

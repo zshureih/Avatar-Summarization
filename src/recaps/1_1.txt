@@ -1,0 +1,15 @@
+m - 11 - Katara:  [Cut to her face; she sighs lightly before answering in slight annoyance.] It's not "magic", it's waterbending! And it's ...
+s - 23 - Scene Description:  She emphasizes the last words with a strong swing of her hand, waterbending and deepening the crack in the iceberg. Sokka's terror deepens.
+m - 24 - Katara:  [Close-up of a rage-fueled Katara as she continues her outburst, a finger pointed in Sokka's face.] I even wash all the clothes! Have you ever smelled your dirty socks? Let me tell you, not pleasant!
+s - 38 - Zuko:  [Gestures at the light while facing his uncle again.] That light came from an incredibly powerful source! [The light dwindles and disappears.] It has to be him!
+m - 38 - Zuko:  [Furiously, still facing Iroh.] I don't need any calming tea! I need to capture the Avatar! Helmsman, head a course for the light!
+s - 42 - Scene Description:  Katara places the boy gently against the base of the crater. Close-up of the boy as he slowly opens his gray eyes. He gasps in awe as he beholds the Southern Water Tribe girl, who stares at him, in relief, with deep blue eyes. Her hair loopies sway in the wind.
+m - 72 - Sokka:  Giant light beams, flying bison, airbenders ... [Walks away.] I think I got midnight sun madness. I'm going home to where stuff makes sense. [He realizes, however, that he is stranded in the middle of the ocean with no way home.]
+m - 97 - Katara:  Aang, this is the entire village. [Points to the line of villagers in front of them.] Entire village, Aang.
+s - 109 - Aang:  [Accepting Sokka's challenge, smiling.] Check again!
+m - 133 - Sokka:  [Angrily.] Listen! Until your fathers return from the War, they're counting on you to be the men of this tribe, and that means no potty breaks! [He makes some wide arm gestures to emphasize his words again.]
+m - 146 - Aang:  [Slides down from Appa's head.] What war? What are you talking about?
+s - 148 - Scene Description:  Aang looks questioningly at Sokka, but the expression on his face changes to enthusiasm when he catches sight of an otter-penguin.
+s - 165 - Scene Description:  She tosses Aang the fish. As he catches it with an uncomprehending look on his face, the penguins immediately begin crowding him. He laughs as the penguins swarm over him, pulling him down amidst their ranks.
+s - 166 - Katara:  [Mockingly imitating a teacher.] Okay, listen closely my young pupil. [Inclines her head toward Aang.] Catching penguins is an ancient and sacred art. [She conjures a fish out of her sleeve.] Observe!
+m - 173 - Katara:  [On a slightly dark tone.] A Fire Navy ship. And a very bad memory for my people. [Aang begins to approach the wreckage.] Aang, stop! We're not allowed to go near it! The ship could be booby-trapped!

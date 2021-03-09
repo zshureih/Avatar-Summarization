@@ -1,0 +1,18 @@
+s - 9 - Sokka:  [Angry and triumphant, having found an excuse.] Aha! The traitor confesses! Warriors, away from the enemy. [The children begin to sadly walk away.] The foreigner is banished from our village.
+s - 11 - Sokka:  [Stubbornly persisting in his anger.] No, I'm keeping my promise to Dad. [Pointing to Aang.] I'm protecting you, from threats like him!
+s - 20 - Sokka:  Katara! Would you really choose him over your tribe? [Shows shot of the entire Southern Water Tribe.] Your own family?
+m - 31 - Southern Water Tribe girl:  [Runs from crowd to stand next to Katara with tears in her eyes.] Ahhh! [Close-up.] Aang, don't go! I'll miss you!
+s - 37 - Katara:  [Rounding on Kanna and interrupting her, her voice full of empassioned rage.] You happy now? [Gestures in the direction Aang took off.] There goes my one chance at becoming a waterbender!
+m - 42 - Aang:  [Sorrowfully.] Yeah, I liked her too. [Catches sight of Fire Nation ship advancing toward the Southern Water Tribe; gasps.] The village! [He slides off the ice formation onto the ground.] Appa, wait here.
+m - 43 - Scene Description:  Cut to a shot of inside the village where the citizens are beginning to flee from the scene. Katara runs up and looks up at her brother still standing atop the wall, and her look turns to one of horror. Cut to a shot of the wall from her perspective; an enormous shadow of the bow of Zuko's ship comes into view. Camera closes in on Sokka's face.
+s - 49 - Zuko:  [Shaking Kanna; annoyed.] He'd be about this age, master of all elements?
+m - 51 - Scene Description:  Aang resumes his fighting stance. Switch to a close-up of the siblings.
+s - 61 - Katara:  [Making arm gestures to emphasize her words while she speaks in an objective tone.] Why can't you realize that he's on our side? [Cuts to shot of her and her brother, her back to the screen.] If we don't help him, no one will. I know you don't like Aang, but we owe him and --
+s - 62 - Zuko:  [Boarding the ship up the walkway. Determined.] Head a course for the Fire Nation. I'm going home.
+s - 95 - Scene Description:  Shows a shot of Appa rising higher into the sky.
+The scene changes back to the Fire Nation ship, where Aang is frantically running through the corridors. He stops in his tracks and yells when he encounters three soldiers standing with swords drawn in the middle of the corridor.
+m - 106 - Scene Description:  Cut to the interior of another room, the entranceway open wide. Aang is seen running past the doorway only to slow down and trace his way back upon catching sight of his glider. Close-up of his face that brightens upon recognition of the object, and he dashes through the open door.
+m - 119 - Scene Description:  Cuts to shot of Aang, as he sinks further underwater.
+m - 133 - Scene Description:  Camera closes up on Zuko eyes as he looks up in anger and determination.
+The scene changes to an overview shot of the clouds. Cut to a side-view of Appa, who soars lazily in the sky while the sun is beginning to set. Aang is perched on the rim of the saddle, while Sokka and Katara sit at the back of it.
+m - 150 - Scene Description:  Close-up of Aang, as he smiles enthusiastically, his eyes widened with excitement. Cut to a wide shot of Appa flying peacefully in the sky, sunbeams breaking through the clouds behind him.

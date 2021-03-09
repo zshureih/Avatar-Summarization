@@ -1,0 +1,16 @@
+m - 1 - Aang:  The Earth Kingdom city of Omashu! [Camera pans up from the group to show the entire pyramid structured city of Omashu. Close-up of an excited Aang.] I used to always come here to visit my friend Bumi.
+m - 2 - Sokka:  [Close-up; overwhelmed.] They have buildings here that don't melt!
+m - 3 - Aang:  [Back view of the siblings, with Aang and the city visible between them. Excitedly.] Well let's go, slow pokes. The real fun's inside the city!
+s - 26 - Aang:  [Sokka and Katara are still in shock in the background; in old man voice.] Name's Bonzu Pippinpaddleopsicopolis, the Third, [Sokka raises a questioningly eyebrow while Katara walks up, smiling friendly.] and these are my grandkids.
+m - 36 - Aang:  [Excitedly.] They do get their mail on time, [Close-up of Aang.] but my friend Bumi found [Squints eyes mischievously.] a better use for these chutes.
+m - 37 - Aang:  [Back to regular voice; voice-over.] This is the Omashu delivery system. [Camera shows the top of the city.] Miles and miles of tubes and chutes.
+m - 53 - Scene Description:  Guards walk up, surrounding the still dazed trio. Close-up of Aang as he sits up, his disguise pretty much gone, revealing his youthful face and airbending arrow.
+m - 85 - Bumi:  [Turning to the guard.] The newly refurbished chamber.
+s - 99 - Scene Description:  Momo looks up surprised to his friend, blinking and chittering softly. Cut to a shot from inside the air vent looking out. Momo's head appears and the animal is pushed inside the tube. The animal is shoved back and forth a few times, much to its displeasure. Cut to Aang standing on a chair, trying to push Momo into the air vent without success.
+m - 115 - Bumi:  [Serious.] First, Avatar, [Frontal shot as Bumi spread his arms, showing off his purple outfit; lighthearted.] what do you think of my new outfit? I want your honest opinion. [Frontal shot of Aang who blankly stares at the king. Someone coughs during the ensuing silence. Switch back to a frontal shot of Bumi.] I'm waiting.
+s - 120 - Scene Description:  Bumi glances toward the siblings. Cut to a shot of Sokka's finger now donning a blue jennamite ring. The ring glows and expands toward his hand.
+s - 134 - Scene Description:  Scene changes to Aang in a large sunken enclosure in a new room, with Bumi, Katara, and Sokka up above. Aang finds a lop-eared bunny.
+s - 138 - Aang:  [Aang jumps up to where Katara and Sokka. Both are encased in crystal to their shoulders.] Guys, are you okay?
+s - 143 - Scene Description:  Aang puts his arm in the hole up to the shoulder trying to grab hold of the frightened rabbit. The light dawns on his face. The snarling goat gorilla bounds toward Aang but instead of attacking, picks him up and licks him.
+s - 146 - Scene Description:  The snarling goat gorilla bounds toward Aang but instead of attacking, picks him up and licks him.
+s - 168 - Scene Description:  The guard tosses Aang his staff. The king bends several rocks at Aang who just avoids and evades the attacks.

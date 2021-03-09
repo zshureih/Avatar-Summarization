@@ -1,0 +1,16 @@
+m - 2 - Scene Description:  Camera fades to find Aang as he spots the three animals in their cage traps hanging by rope on tree limbs.
+s - 4 - Aang:  [Inching his way upside-down to the traps on the tree branch. They fall before he can reach them.] That works.
+m - 4 - Sokka:  These are Fire Nation traps, [Camera zooms to upward shot of the gang looking at the trap.] you can tell from the metalwork. We better pack up camp, and get moving.
+s - 19 - Aang:  [While hanging upside-down from Appa's right horn with feet sticking out in the air.] He's right.
+m - 31 - Katara:  You know who you should ask to carry it for a while? Sokka's instincts. [Sokka's eyes turn to her in irritation.]
+m - 43 - Jet:  Down you go. [Katara looks amazed, Aang shocked, and Sokka confused.]
+s - 81 - Jet:  Aang? [Offers Aang another rope.]
+m - 93 - Katara:  So, you all live here? [Sokka who is being ignored comically sinks back behind them.]
+m - 146 - Scene Description:  Jet is sitting on a hammock-bed, the others stand. Sokka stands grumpily as far away as he can get. Aang is wearing the hat Katara made; he looks ridiculous and goofy.
+m - 168 - Scene Description:  Aang and Katara look at each other. Fade to them entering their hut. Sokka is tying up a mat on the floor.
+m - 229 - Katara:  Why would they need blasting jelly? [Zooms on Aang, who is horrified.]
+s - 229 - Scene Description:  Before Aang can reach the edge, Jet crosses his path from behind and snatches the glider. Aang is left wobbling precariously on the edge, and uses airbending to get himself back on stable footing.
+s - 239 - Scene Description:  A small tributary flows past him. Aang is slow to get up. Before Jet can take more than a step however, he his hit by a large water strike. Katara is there; she uses water from the river to throw Jet against the trunk of the tree. Over and over she attacks; Jet is unable to cut the water and its force plasters him against the trunk. She freezes Jet from toe to neck.
+s - 244 - Scene Description:  Aang retreats back into the forest, as Jet hooks the branch and pulls himself up. Katara follows on the ground. Jet attacks; Aang defends himself with balls of air, which Jet ducks. Jet attacks head on, but Aang blocks with his arms and sends his opponent flying into a tree trunk with an air kick. Jet combines his swords again and advances. Aang avoids the flail-like move and sends another air blast. Jet stoops down and lets the air flow over and past him before lunging.
+s - 246 - Scene Description:  Jet swings the swords at Aang. Aang somersaults backward to avoid the extra reach. Aang finishes his retreat in a nearby tree.
+s - 246 - Scene Description:  They continue the chase through the many levels of the forest. Jet catches up to Aang and sends them both freefalling, attacking as they go. They both end up on a branch. Jet continues his attack. Aang avoids it all. Jet charges again, but Aang hits him with a jetstream of air. Jet falls. He recovers, but loses the glider in the process. Before Aang can get to the ground Jet kicks him into a trunk. He lands with a thud next to his glider.

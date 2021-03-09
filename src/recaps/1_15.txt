@@ -1,0 +1,16 @@
+m - 2 - Scene Description:  While Aang draws the weapon free from the ground, Sokka slides down the slope and pulls up behind the Avatar, snatching the weapon from his hands as Aang turned to show it to him.
+s - 5 - Scene Description:  Cuts to shot of Aang and Sokka searching the wooded area for more weapons. Katara walks toward them, curious.
+s - 15 - Katara:  Is this dad's boat? [She and Sokka run toward it. Cut to shot of entire ship as they approach.]
+s - 18 - Iroh:  [Exhaling.] Aahh! [Cuts to shot of entire room where he and Zuko are seated at a low-lying table.] See Prince Zuko, a moment of quiet is good for your mental well-being. [Pours Zuko a cup of tea.]
+s - 23 - Iroh:  Well, I'm impressed. [June cracks her whip. Cuts to shot of the shirshu bolting off the ship and racing down the dock.] Very impressed. [Leaning over the ledge of the ship with Zuko, stroking his beard thoughtfully; Zuko look at him, disgusted.]
+m - 50 - Scene Description:  The scene cuts to the hut in which Bato is staying, with a tent on the opposite side of the door being the bed chamber, a fire with cousins in the middle, and various pelts placed and hung everywhere.
+s - 54 - Scene Description:  Momo leaps from Aang's arms and starts hitting the head of a bear pelt. The bear's mouth closes, Momo is alarmed a retreats back to Aang. Katara and Sokka are by the fire. Katara opens the lid of a pot cooking over the fire as Bato joins them.
+m - 66 - Sokka:  [Waving Aang off.] It's a long one Aang, some other time.
+s - 91 - June:  [Stops and widens her eyes in surprise. She smiles. Cut to a side-shot of June walking over to Iroh.] Make it your [Pokes his stomach.] weight, and we gotta deal.
+m - 149 - Bato:  You'll be dodging those. [Points to a group of tall, sharp, jagged rocks near the shore. Katara and Sokka appear nervous.] Sokka, you steer and call the shots, lead wisely. Katara, you secure the main sail. [Katara grabs a rope.] The winds can be brutal, so be brave. Aang, you control the jib. Without your steady hand, we all go down. Your position is about trust.
+m - 149 - Sokka:  [Studies the rocky shores.] Aang, ease up on the jib. Katara, steady. [Katara looks at the shore with concern.] Aang, less sail. Katara, give him room. [The ship moves to the side and sails between some rocks.] Aang, helm to lee. Helm to lee!
+m - 150 - Bato:  Ice dodging is a ceremonial test of wisdom, bravery, and trust. [Shot changes to on the boat.] In our village, ice dodging was done by weaving a boat through a field of icebergs.
+m - 152 - Bato:  For this is to be done right, I cannot help. [Sits cross-legged at the front of the boat.] You pass or fail on your own.
+m - 166 - Sokka:  [Angrily.] This is the map to our father! You had it the whole time? How could you? [Aang shrugs his shoulders.] Well, you can go to the North Pole on your own. I'm going to find Dad. [Walks away.]
+s - 170 - Katara:  [Turns to look at Aang and closes her eyes.] I'm with you Sokka.
+s - 175 - Scene Description:  Cut to an aerial view of the abbey. The shot cuts to three nuns stirring perfume. The sound of rumbling alerts the nuns as they stare in fright as Nyla enters the abbey holding June, Iroh, and Zuko. The shot cuts to Nyla's point of view, who sees the purple scent and turns his head to follow it.

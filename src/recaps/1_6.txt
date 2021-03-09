@@ -1,0 +1,16 @@
+s - 0 - Scene Description:  The scene opens up in a forest. Katara and Aang are on a raised, grassy plateau. A gentle stream is running out beneath it. Katara is folding one of their sleeping blankets. Aang is lying on the root of a tree. Momo screeches and lands on the plateau as Sokka approaches.
+m - 23 - Katara:  [Notices the boy enter a shop. Speaks to herself in surprise.] Hey ...
+m - 42 - Tax collector:  You can keep the copper ones. [Walks away, dropping four copper pieces to the floor, exits.]
+m - 51 - Scene Description:  Scene changes to late evening, viewing farmland and a barn. Appa walks into the barn. Cut to a closer view of Sokka, Katara, Haru, and Aang standing inside the barn.
+s - 65 - Haru:  Yeah. Problem is ... [Close-up, earthbends two stones in a circle above his hand.] the only way I can feel close to my father now [Crushes the stones to sand�with his hands. The sand blows away.] is when I practice my bending. He taught me everything I know.
+m - 94 - Katara:  [Enters barn to see Aang and Sokka folding blankets; emotionally.] They took him! They took Haru away!
+m - 101 - Katara:  [Props hands off hips, turns to Aang.] Aang? Did you get all that?
+m - 111 - Katara:  [Far too dramatically as her hair loopies move with her motion.] A giant-eared cretin! Look at those things! Do herds of animals use them for shade?! [Imitates an elephant's ears.]
+m - 114 - Katara:  I'll show you who's boss! [Angrily points at Sokka.] Earthbending style! [Over-dramatically leaps toward the boulder, clenching her fist upward to which there is no reaction. Angrily.] I said, earthbending style!
+s - 126 - Warden:  [Very angrily.] What kind of guest dishonors his host by interrupting him?! Take him below! [Swings his arms. Some guards escort the man away. Mutters.] One week in solitary will improve his manners. [Continues smug gait.] Simply treat me with the courtesy that I give you-
+s - 162 - Scene Description:  Fade to black. Cut to Sokka, Aang, and Katara on the metal perimeter.
+s - 165 - Scene Description:  The two guards who witnessed Appa take to the skies approach the warden on a catwalk.
+m - 182 - Scene Description:  Cut scene; Momo peeps over a wooden crate where the trio is safely hiding behind numerous boxes. Scene opens up to show the three huddled together seated on the metal ground in the darkness.
+s - 191 - Katara:  [Lays her palm to the surface.] But this entire place is made of metal!
+s - 193 - Sokka:  It should. These vents reminded me of our little trick back at the village. We're gonna do the same thing, but on a much bigger scale. [The camera zooms through a visual walkthrough of Sokka's explanation.] There's a huge deposit of coal at the base of the silo. And the whole system is ventilated. Aang closed off all the vents except one. When he does his airbending the coal only has one place to go, right back here.
+s - 223 - Katara:  I can't. Your mission is to take back your home. Ours is to get Aang to the North Pole. [Gazes over the rail to see Momo join Aang atop Appa's head, floating in the ocean.]

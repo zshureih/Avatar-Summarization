@@ -1,0 +1,17 @@
+m - 0 - Scene Description:  The episode opens to a cloudy sky, looking toward the ground. The point of view switches to one above the clouds as they pass by. A messenger hawk floats into view, emitting a cry. When Appa overshadows the bear and roars, it shrieks again and stoops down, swiveling out of view. The camera shifts to a side-view of Appa soaring along with Aang, Katara and Sokka in his saddle.
+m - 4 - Aang:  [Frontal shot; excitedly.] I'll try it! [Carrying his staff, he jumps off Appa with a big smile on his face. As he begins to fall, he turns once around his axis, winking at the camera as he passes. He falls down spreadeagled, laughing joyously.] Yeah!
+m - 13 - Sokka:  [Noticing footprints; angrily.] Fire Nation! Those evil savages make me sick! They have no respect for -
+s - 63 - Soldier:  [Picks up Iroh's clothes.] He's a Fire Nation soldier.
+m - 64 - Scene Description:  The meadow vole leaps up and down. This is followed by shaking and the ground moving toward Iroh. Suddenly, the rock at the bottom of the spring jumps up, capturing him. Three Earth Kingdom soldiers surround him.
+m - 88 - Sokka:  Hei Bai, over here! [He throws his boomerang at him, but it barely affects the monster. He runs toward it.]
+s - 93 - Katara:  [Running to the village entrance.] Sokka! [The villagers go the entrance as well. Katara is left standing fearful.]
+s - 95 - Scene Description:  Back near the hot spring. Two soldiers and Zuko look for Iroh.
+s - 103 - Scene Description:  The next scene cuts back to the soldiers who captured Iroh. They are riding ostrich horses. One soldier carries a torch with him for light.
+s - 108 - Scene Description:  Cut back to Senlin Village. Katara awaits at the village entrance for Sokka and Aang. The Old wanderer approaches her.
+m - 137 - Scene Description:  Iroh spits a rock out.
+Meanwhile, Katara is flying on Appa over the forest.
+s - 138 - Scene Description:  Fang takes Aang back to the statue at fast speed. Aang notices his body is there and also prepares for impact. Suddenly, Fang disappears into the statue and Aang is returned to his body. He looks around at the statue, opens his glider, and flies back to the village.
+Cut to the village, sunset. Katara stands outside the center building and notices Aang's return. Aang lands and Katara runs to him.
+m - 143 - Earthbender captain:  These dangerous hands must be crushed. [He brings up and prepares to drop it. However, Zuko jumps in and kicks the rock away before breaking Iroh's chain with his boot.]
+s - 145 - Scene Description:  Cut back to Senlin. Aang awaits at the entrance for the Hei Bai. After some time, he gives up and returns to the center building. Just as he exits, however, the spirit appears to his left. He throws up an air shield to stop its attack.
+m - 145 - Scene Description:  The spirit prepares to resume its attack when Aang jumps in front of it. He feels its forehead and notices that a panda lurks below it.

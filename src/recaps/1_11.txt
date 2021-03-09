@@ -1,0 +1,16 @@
+m - 9 - Katara:  [Angrily.] Well, if you don't like my firewood- [Throws the sticks at Sokka who shields himself from the wood. He stands in anger after the hail of sticks subsides.]
+s - 36 - Gan Jin tribesman:  Ha, of course you didn't! That's the ignorance I'd expect from a messy Zhang. So unorganized and ill-prepared for a journey. [The Zhang tribe members yell out in protest behind them. Katara and Aang look at each other worriedly, but turn around to see a large pile of rocks being levitated up and thrown away. The canyon guide stands behind where the rocks used to be.]
+m - 41 - Canyon guide:  I can't guide people who aren't here. [Cut to a wider shot showing the Zhang filing past the three kids and the fuming Gan Jin scout.]
+s - 61 - Canyon guide:  Okay, now comes the bad news. [Cut to a frontal shot of the guide.] No food allowed in the canyon, it attracts [He makes motions with his hands to illustrate the skittery monsters that might lurk in the canyon.] dangerous predators. [Both tribes yell out in protest.]
+m - 63 - Canyon guide:  Oh, you babies can go a day without food? Would you rather be hungry, or dead? [He raises an earth pillar to tower over the rest. He continues, cupping his hands to his mouth to amplify his voice.] Now, we're heading down in ten minutes. All food better be in your gut or in the garbage!
+m - 65 - Aang:  Nice bending!
+m - 69 - Sokka:  We gotta help him! [He throws his boomerang at the crawler, which drops the canyon guide and comes after Sokka instead.] Okay, now we gotta help me! [Katara comes to his aid and does a water whip on the crawler, but she is quickly thrown aside. Aang jumps down and sends a multiple blasts of air at the crawler and drives it away.]
+m - 73 - Canyon guide:  Okay, everyone stand clear of the wall. [He throws the boulder and destroys the bridge he had made earlier.]
+s - 104 - Scene Description:  Katara smiles and the camera fades to nightfall, where they are sitting around their campfire. The Gan Jin leader looks around and pulls a piece of bread out of his sleeve. Katara looks stunned to see all the other tribe members doing the same.
+s - 111 - Scene Description:  Katara glares at the Zhang's camp and the scene fades to show the Zhang tribe and Sokka sitting around the campfire.
+s - 114 - Scene Description:  Aang looks away sadly and the scene fades to show the two tribes traveling again in daylight.
+m - 119 - Scene Description:  Fades to show Aang sitting with Momo far from both camps.
+m - 136 - Scene Description:  The two leaders ignore him as they begin to fight. They are evenly matched, and continue until Aang blows them apart with a strong gust of air. The two tribes go flying backward, revealing a large amount of hidden food.
+s - 167 - Zhang leader:  Let us travel to the Earth Kingdom capital as one tribe. [Both tribes cheer as they start walking.]
+s - 168 - Scene Description:  The Zhang leader bows back and Aang looks at them happily. The scene fades to show them standing with Appa.
+m - 173 - Scene Description:  Fades to show the two tribes standing together.
