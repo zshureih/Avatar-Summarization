@@ -1,0 +1,16 @@
+m - 6 - Katara:  [Accepts amulet and hugs Pakku.] Thank you, Master Pakku.
+s - 13 - Scene Description:  The scene switches to a Fire Nation ship. Several men bow as a royal carriage is brought out. Within the carriage is Princess Azula, the daughter of Ozai, niece of Iroh, and sister of Zuko.
+s - 30 - Fong:  Welcome, Avatar Aang! [Cuts to shot of the team stretching after riding on Appa.] I am General Fong, and welcome, to all of you great heroes! Appa, Momo, brave Sokka, the mighty Katara ...
+m - 34 - Fong:  [Camera view depicts entire room.] Avatar Aang, we were all amazed at the stories of how you singlehandedly wiped out an entire Fire Navy fleet at the North Pole. [Closes up to Fong, stroking his beard.] I can't imagine what it feels like to wield such devastating power. It's an awesome responsibility.
+m - 39 - Katara:  [Holds out her hand in reasoning.] Aang still needs to master all four elements.
+s - 62 - Soldier:  [Drops white food item into the teapot.] This rare chi-enhancing tea is a natural stimulant. In an ordinary warrior, it improves strength and energy ten-fold. In you, it may induce the Avatar State.
+m - 76 - Oracle:  You are wearing a ceremonial piece of clothing from each of the bending nations. Now I will join the four elements into one! Water [Pours jug of water into the bowl.], earth [Pours in bowl of dirt.], fire [Takes nearby torch and throws it in.], air! [Releases air gust from wooden contraption.] Four elements together as one!
+s - 134 - Fong:  [Walks over toward the hole that was created from the impact and points to Aang.] Men! Attack the Avatar!
+s - 163 - Fong:  You could save her if you were in the Avatar State!
+m - 166 - Fong:  [Demanding.] I don't see glowing! [Lowers his right arm and begins closing his hand into a fist; Katara becomes buried neck deep.]
+m - 172 - Scene Description:  They fly higher above the dusty clouds. Cuts to side shot of the dragon, many small figures seen floating in the distance.
+s - 173 - Scene Description:  Cuts to Avatar Kyoshi, who stands surrounded by rocky mountain terrain. Her eyes glow for a moment and she assumes a fighting stance. The camera zooms out to reveal two large earthen statues, somewhat resembling badgermoles. She performs a series of moves which cause the statues to rise into the air, and send them past toward the camera.
+m - 176 - Fong:  [Pleading.] Avatar Aang! Can you hear me? Your friend is safe! [Brings Katara back above ground; cuts to close-up of her as she looks up at Aang in misery.] It was just a trick to trigger the Avatar State ... [Cuts back to Fong, who smiles maniacally.] and it worked!
+s - 180 - Roku:  [Cuts to Roku.] The Avatar State is a defense mechanism, designed to empower you with the skills and knowledge of all the past Avatars.
+m - 188 - Roku:  In the Avatar State, you are at your most powerful, [Cuts to an unnamed fire Avatar, who summons lava spouts from four volcanoes; the lava washes over the screen and the scene cuts back to Roku and Aang.] but you are also at your most vulnerable.
+m - 198 - Azula:  [Holds up wanted poster of her brother and uncle.] Anyone who harbors these traitors will face the wrath of the Fire Lord! [She lays a hand on the balcony, causing the two massagers to cower in fear; cuts to close-up of her.] There will be no place left to hide!

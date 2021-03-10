@@ -1,0 +1,16 @@
+s - 4 - Scene Description:  Cuts to Aang sitting on Appa, a bluebird perched on his head and a yellow butterfly fluttering past. Momo jumps up in an attempt to catch the butterfly.
+s - 5 - Aang:  [Cheerfully.] That's not gross, it's just a part of spring! You know, rebirth, flowers blooming and Appa gets a new coat.
+s - 10 - Aang:  [Wearing a beard of fur.] And a great beard! [Aang and Sokka laugh while pointing at each other.]
+m - 15 - Toph:  [Breezily.] Katara, I'm fine. I can carry my own weight. I don't need a fire, [Pats bag.] I've already collected my own food and look, [Earthbends a rock tent over her.] my tent's all set up.
+m - 19 - Aang:  [Landing onto the ground to aid Sokka.] Sorry!
+s - 51 - Katara:  "Both"?! [Rapidly turns to face Aang, her expression crazed and her eyes bloodshot.] I'm completely calm!!
+m - 75 - Sokka:  [Hold up finger to silence the lemur.] No Momo, shhh. [Relaxes.] Sleepy time.
+m - 76 - Sokka:  [Points to his top-knot.] This is a warrior's wolf tail.
+s - 98 - Scene Description:  Toph earthbends a huge rock wall in front of the trio. Cuts to Azula who moves her arms in a circular motion, generating lightning. She fires the bolt at the wall, blowing a huge hole in it. Shows the lizards as they clamber through the hole. Toph is clearly shocked at this. Cuts to Mai who swings her arm, releasing a flurry of stilettos. Toph launches herself off a pillar. The darts strike the pillar and she lands on Appa.
+s - 104 - Katara:  Are you kidding me? [Points fingers upward repeatedly in gesture.] The crazy blue firebending and the flying daggers are bad enough, but last time we saw them, one of those girls did something that took my bending away. That's scary.
+m - 152 - Mai:  [To Azula, pointing in direction of the trail.] The trail goes this way.
+s - 172 - Scene Description:  The two are suddenly swept off their feet by a powerful gust of wind conjured by Appa's tail. They incidentally somersault into the air and land several yards away in the water. Cuts to shot of riverbank, Appa shaking his tail, his back facing the camera.
+m - 176 - Azula:  [Cuts to view of her left side.] Now? Now, it's over. You're tired and you have no place to go. [Cuts to view of her face.] You can run, but I'll catch you.
+m - 182 - Azula:  [Coolly.] You mean you haven't guessed? You don't see the family resemblance? Here's a hint. [Covers her eye and deepens her voice, imitating Zuko.] I must find the Avatar to restore my honor! [Aang remains silent; back in her normal voice.] It's okay, you can laugh. It's funny.
+m - 188 - Iroh:  [Handing her a cup of tea.] Here is your tea. [Cuts to shot of Toph staring blankly at the ground and back to Iroh.] You seem a little too young to be traveling alone.
+s - 230 - Zuko:  [Blasts an arc of fire.] Leave!

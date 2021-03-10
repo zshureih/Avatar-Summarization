@@ -1,0 +1,16 @@
+s - 0 - Scene Description:  The team is situated at the waterfall pond. Sokka is surveying a map. Toph is sitting with her feet in the water, moving it back and forth. Aang is swimming while Katara is located at the top of the lake near the waterfall. Aang goes underwater for a moment and bends an ice cube around himself for amusement.
+m - 0 - Katara:  [Excitedly.] Waterbending bomb! Yeah! [Jumps into the water.]
+m - 17 - Katara:  Great! We can travel through the Serpent's Pass together.
+m - 17 - Ying:  The Serpent's Pass? Only the truly desperate take that deadly route!
+m - 21 - Katara:  Hmm ... peaceful ferry ride or deadly pass?
+s - 27 - Than:  We're all looking for a better life, safe behind the walls of Ba Sing Se.
+m - 44 - Ticket lady:  Ah, I see fifty Avatars a day and, by the way, not a very impressive costume. [The screen pans to show several impostors; notices Momo.] Besides, no animals allowed. Do I need to call security?
+s - 97 - Katara:  It says, "abandon hope".
+m - 106 - Scene Description:  Within the pass.
+s - 141 - Scene Description:  Back on the ferry. Jet passes out food to other travelers. The other Freedom Fighters, Zuko, and Iroh sit together.
+s - 145 - Jet:  I've done some things in my past that I'm not proud of, but that's why I'm going to Ba Sing Se: for a new beginning. A second chance.
+m - 154 - Scene Description:  The shadow breaks through the water, breaking the divide. Toph quickly uses her earthbending to raise the ground they are standing on above the water. The shadow is actually a large serpent, which appears from the water with a shriek.
+m - 155 - Katara:  Everyone single file! [She divides the water, allowing everyone to walk through the drowned out path.] Aang, I need help! [Aang helps by creating an air bubble.]
+s - 158 - Toph:  [Feels the ice but her sense of sight is restricted.] Actually, I'm going to stay on my little island, where I can see! [The serpent takes out half the island.] Okay, I'm coming! [Slowly crosses the ice.]
+s - 186 - Scene Description:  Aang enters to see the new life.
+s - 210 - Aang:  I thought I was trying to be strong. But really I was just running away from my feelings. Seeing this family together, so full of happiness and love, it's reminded me how I feel about Appa ... and how I feel about you.

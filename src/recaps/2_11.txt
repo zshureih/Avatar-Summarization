@@ -1,0 +1,17 @@
+s - 30 - Scene Description:  The Rough Rhinos prepare themselves for battle, each readying their own weapon of expertise.
+s - 32 - Iroh:  Sure. Colonel Mongke and the Rough Rhinos are legendary. Each one is a different kind of weapon specialist. [The camera cuts to each member of the Rough Rhinos.] They are also a very capable singing group.
+m - 37 - Iroh:  [Grasping his shoulder again as he racks his brain in search of an answer.] Hmmm ... Old friends that don't want to attack me ...
+s - 37 - Scene Description:  Cut to Katara, Sokka and Toph, all exhausted and dehydrated, still wandering through the desert. Sokka stops to take Momo off his back and use his wings to create some shade, causing Toph to crash into him.
+s - 81 - Sokka:  Friendly mushroom! Mushy giant friend!
+m - 101 - Katara:  [Hopeful.] Sokka? Any ideas how to find Ba Sing Se?
+m - 123 - Katara:  No, but we can find out which way Ba Sing Se is. We can use the stars to guide us. [She pulls out a map of the stars.] That way we can travel at night when it's cool and rest during the day.
+m - 142 - Iroh:  Those who do can always find a friend.
+s - 147 - Fung:  [Quickly places himself before Iroh and Zuko, preventing Xin Fu and Yu from reaching them.] I knew it! You two are wanted criminals with a giant bounty on your heads!
+m - 164 - Katara:  [Sadly.] It's just a cloud. Wait! A cloud! [Offers he pouch to Aang.] Here, fly up and bend the water from that cloud into my pouch.
+m - 184 - Iroh:  One who has eaten the fruit and tasted its mysteries.
+s - 231 - Katara:  We found the sailer abandoned in the desert. We're traveling with the Avatar. [She gestures at Aang. The leader's eyes widen a bit at this information.] Our bison was stolen and we have to get to Ba Sing Se.
+m - 236 - Scene Description:  Xin Fu and Yu can be seen through a small window in the door of the flower shop. They are holding up a wanted poster that depicts Iroh and Zuko to man walking by.
+s - 238 - Ghashiun:  You dare accuse our people of theft while you ride in on a stolen sand sailer<U+200C>?!
+m - 255 - Scene Description:  The scene switches to the man pulling the wooden wagon with the two large pots over some dunes. Zuko's and Iroh's head emerges from underneath the flowers. They briefly peek around before sinking back into their pots.
+Cut back to the desert where Aang is confronting the sandbenders.
+s - 260 - Scene Description:  Aang's eyes and tattoos start to glow as he enters the Avatar State. With a swing of his staff, he destroys the last of the sandbender's sailers.

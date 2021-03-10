@@ -1,0 +1,16 @@
+s - 9 - Scene Description:  Cuts to overhead shot of the tunnel as everyone begins entering the passageway. Aang stays behind, trying to get Appa to leave with him by pulling on the bison's reins. The camera zooms out, as he spots Zuko standing, facing the airships.
+s - 28 - Scene Description:  Cuts to shot of Azula, who stands on the side of the cliff, smiling evilly. Cuts to shot of her watching as the team escapes, her back to the camera. The scene switches to where the gang is camping outside.
+s - 38 - Scene Description:  Cuts to shot of the entire campsite.
+m - 40 - Katara:  [Turns around; furiously.] Oh, everyone trusts you now! I was the first person to trust you! [Places her left hand on her heart.] Remember, back in Ba Sing Se. [Points to the ocean.] And you turned around and betrayed me, betrayed all of us!
+m - 44 - Katara:  [Cuts to shot of her and Zuko standing on the cliff as she approaches him while snapping at him angrily.] You really want to know? Hmm, maybe you could reconquer Ba Sing Se in the name of the Earth King. [Cuts to side-view of her and Zuko.] Or, I know! You could bring my mother back!
+m - 48 - Sokka:  Nah, she doesn't hate you. Katara doesn't hate anyone. Except maybe some people in the Fire Nation. [His eyes widen as he realizes his mistake.] No, I mean, uh, not people who are good, but used to be bad. I mean, bad people. Fire Nation people who are still bad, who've never been good and probably won't be, ever!
+s - 57 - Scene Description:  Cuts to shot of Sokka tossing his boomerang toward the retreating soldiers. The scene switches back to present day.
+m - 61 - Sokka:  Yeah ... sea ravens. [Scene shows flashback of three red flags waving in the breeze, bearing sea ravens.] The main ship had flags with sea ravens on them.
+m - 99 - Zuko:  [Sarcastically.] Okay, we'll be sure to do that, guru goody-goody. [Climbs aboard Appa.]
+m - 101 - Katara:  Thanks for understanding, Aang. Yip-yip. [Appa takes flight; Aang and Sokka look up at the departing bison, their backs facing the camera.]
+s - 108 - Katara:  [Cuts to shot of the communication tower situated on an island in the middle of the ocean; off-camera.] So once we find the communication tower, we bust in and take the information we need.
+s - 113 - Zuko:  Okay, Southern Raiders. [Opens a scroll.] Bam. [Points to location on map; off-camera.] On patrol near Whaletail Island.
+m - 160 - Yon Rha's mother:  [Angrily. Her fists clench as she interrupts.] Forget your stupid garden! [Cut to a close-up of her as she yells at him; irritatingly.] Get your grimy hind to the market and buy me some real food!
+m - 171 - Zuko:  We weren't behind the bush. [Cut to a side view of the confrontation as Zuko takes a step forward to threaten Yon Rha.] And I wouldn't try firebending again!
+s - 186 - Scene Description:  Fade to present day Yon Rha who gulps in terror as the flashback ends. Lightning strikes in the background.
+s - 206 - Scene Description:  Camera focuses on Aang, who now has a worried expression on his face. Fades to credits.

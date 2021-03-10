@@ -1,0 +1,15 @@
+s - 0 - Scene Description:  The episode opens where several Fire Nation tanks rumble across the terrain, a large metal mechanism following close behind. The camera zooms out to a shot of the Fire Nation drill slowly moving its way toward the Outer Wall of Ba Sing Se. Several sections of the drill extend forward, releasing steam as spikes are driven into the ground. The drill's command module ascends where inside are Princess Azula, her friends, Mai and Ty Lee, War Minister Qin and several operators of the drill.
+s - 6 - Scene Description:  The scene changes to where Katara, Sokka and Toph are escorting Than and his family to the city. Aang appears, flying in on his glider with Momo behind him. He lands, Momo perched on his shoulder.
+s - 10 - Aang:  [Camera zooms out to drill.] That.
+m - 12 - Ying:  [Despairingly.] We made it to Ba Sing Se and we're still not safe. No one is! [Huddles with family members.]
+s - 17 - Scene Description:  The scene changes to a portion of the Outer Wall where a roof rises overhead, supported by tall arches. An Earth Kingdom general sits behind a desk.
+m - 29 - General Sung:  [Meekly stands before the Avatar. Humbly.] Yes, please.
+s - 62 - Toph:  By hitting its pressure points!
+m - 94 - Iroh:  Blaugh! Ugh, coldest tea in Ba Sing Se is more like it! What a disgrace!
+m - 97 - Tea seller:  Get your hot tea here! Finest tea in Ba Sing Se!
+m - 111 - Sokka:  [Turns and gestures to self.] Look, I'm the plan guy. You two [Makes rapid chop-chop gestures.] are the cut stuff up with waterbending guys. [Strikes a heroic pose.] Together, we're Team Avatar!
+m - 124 - Qin:  Congratulations, crew. The drill has made contact with the wall of Ba Sing Se. [Cuts to him standing in the command module.] Start the countdown to victory!
+s - 160 - Aang:  [Halting.] This looks like a good spot, Momo. [Looks up to find boulders being hurtled down the wall, nearly crushing him. Yelling.] General Sung, tell your soldiers to stop shooting rocks down here!
+s - 161 - Sokka:  [Having successfully opened hatch which leads to a canal channeling slurry.] It's rock and water mixed together. It means our way out!
+m - 187 - Train conductor:  Last call for Ba Sing Se!
+m - 202 - Scene Description:  Fades to credits.

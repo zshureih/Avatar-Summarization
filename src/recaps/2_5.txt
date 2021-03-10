@@ -1,0 +1,16 @@
+m - 18 - Sokka:  [Sadly.] I feel like I've lost part of my identity. [He jumps up and moves Aang's hat slightly so that he can point at Aang's arrow.] Imagine if you lost your arrow, or Katara lost her ... [Makes a hair loopies gesture with a somewhat bored look.] hair loopies.
+m - 28 - Aang:  There's a holiday for the Avatar. Who knew?
+s - 32 - Sokka:  And here comes Avatar Roku! [Roku effigy rolls by.]
+m - 37 - Sokka:  Now a torch, that's a nice prop. It's bright, dangerous ... [Sniffs.] smells manly. But I'm not sure I could carry it off.
+s - 47 - Scene Description:  Aang looks angrily at the villager. He airbends himself to the top of his own float and lands on the left shoulder of his still smoking effigy.
+s - 51 - Tong:  [Pointing in shock at Aang.] It's the Avatar himself!
+m - 57 - Katara:  Why not? Aang helps people.
+s - 66 - Scene Description:  He turns around to shake his rear at Aang and blows a raspberry; the villagers cheer in approval.
+m - 80 - Katara:  [Slightly mocking.] I think what "Master Swish" is trying to say [Serious tone as she looks at Aang.] is that you're supposed to be out saving the world. You can't do that locked up in here.
+m - 124 - Sokka:  [Annoyed.] Special outfit? Hat and pipe? These things mean anything to you?
+m - 175 - Sokka:  [Plays with his magnifying glass.] I do believe in the power of stuff.
+m - 181 - Katara:  [Hopeful.] Well, she is Aang's past life. Maybe wearing her stuff will trigger something.
+s - 184 - Aang:  [Higher pitch.] Hey, everybody! Avatar Kyoshi here. [Rapidly blinks his eyes.]
+s - 200 - Villager #3:  Razor pit!
+s - 223 - Mongke:  [Raising his hand while shouting his command.] Rough Rhinos, to the town!
+s - 225 - Sokka:  [Raises his arms in the air and exclaims ecstatically.] Boomerang! You do always come back!

@@ -1,0 +1,16 @@
+s - 1 - Aang:  What happened? [Sees the Fire Nation designs and flag and immediately assumes he has been captured.] Oh no!
+s - 11 - Sokka:  [Hugs Aang; is disguised as a Fire Nation guard.] Aang, good to see you back with the living, buddy!
+m - 15 - Mai:  [Yawns.] I just asked if you were cold, I didn't ask for your whole life story. [Giggles and holds his face in her hands.] Stop worrying.
+m - 68 - Scene Description:  Aang is shocked. Cut to Aang looking out to the water from a side of the boat.
+s - 77 - Scene Description:  Crew from the other ship boards Team Avatar's ship.
+s - 96 - Katara:  [During flashback.] This is water from the spirit oasis at the north pole. It has special properties so I've been saving it for something important.
+s - 100 - Toph:  Load the Toph!
+m - 100 - Scene Description:  Cut back to Aang and Sokka in the ship.
+s - 120 - Aang:  And I hate the invasion plan, too! [Rips down the Fire Nation flag covering his staff.] I don't want you or anyone else risking your lives to fix my mistakes! I've always known that I would have to face the Fire Lord. But now I know I need to do it alone.
+s - 124 - Aang:  [Getting up.] It is true. I was in Ba Sing Se. I was there! But I lost. And now the Earth Kingdom is fallen for good.
+m - 129 - Katara:  [Moving to comfort him.] Aang ...
+m - 130 - Katara:  I brought you some food! [Notices Aang has gone missing.] Oh no ... [Drops the food tray and runs.]
+m - 149 - Scene Description:  He takes a deep breath and swims under it. Upon emerging, he finds a tree bark and rides it like a surfboard through the water. A storm turns the seas very choppy. He falls off and into the water and his staff flies away. We return to the palace. Azula is asleep, when Zuko enters her room.
+s - 152 - Ozai:  I am proud of you, Prince Zuko. I am proud because you and your sister conquered Ba Sing Se. I am proud because when your loyalty was tested by your treacherous uncle, you did the right thing and captured the traitor. And I am proudest of all of your most legendary accomplishment: you slayed the Avatar.
+m - 172 - Scene Description:  Moonlight shines on on Aang as Yue's spirit appears above.
+m - 182 - Scene Description:  Flies up and sticks it in the volcano's lava trails, causing it to catch fire as they depart. Scene fades to credits.

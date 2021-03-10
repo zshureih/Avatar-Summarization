@@ -1,0 +1,15 @@
+m - 6 - Scene Description:  The episode opens to a waxing gibbous moon glowing in the night sky. The scene cuts to a shot of a field of fire lilies, a mountain in the distance. Cuts to a forested area, where Team Avatar is camping out among the trees. The darkness of the night gives the landscape an ominous feeling.
+m - 26 - Hama:  [Off-camera from behind group.] Hello, children.
+m - 28 - Sokka:  [Sheepishly, places arm behind head.] Yes, please.
+s - 29 - Scene Description:  Hama smiles and begins walking away. The scene changes to a village, her local inn lying atop a small hill. Cuts to inside the building, where tea is being poured into a teacup. Cuts to shot of the group sitting around the kitchen table.
+s - 37 - Hama:  [Off-camera.] Wakey, wakey! [Cuts to shot of the innkeeper, standing brightly over him.] Time to go shopping!
+m - 51 - Sokka:  [Makes gesture with his hand.] And then you can sew up this little mystery lickety-split, Avatar style!
+m - 51 - Hama:  [Extremely close-up. Ominously.] Mysterious town for mysterious children.
+s - 53 - Scene Description:  Cuts to overhead shot of the group standing in the marketplace as he, Sokka and Toph approach Katara and Hama.
+m - 106 - Hama:  [Cuts to side-view of her; sadly.] That's because the Fire Nation wiped them all out. I was the last one ...
+s - 115 - Scene Description:  The scene fades to a flashback of a much younger Hama peacefully sauntering through her Southern Water Tribe village.
+s - 115 - Hama:  [Voice-over.] I was led away in chains. The last waterbender of the Southern Water Tribe.
+m - 180 - Female prisoner:  [Speaking, as Toph unlocks her shackles.] She seems like a normal old woman, but she controls people like some dark puppetmaster!
+m - 184 - Hama:  What I'm about to show you, [Cuts to close-up of Hama glaring menacingly.] I discovered in that wretched Fire Nation prison.
+s - 186 - Scene Description:  The camera switches over to show a Fire Nation guard strolling past the cages when a sudden feeling comes over him. Using bloodbending, Hama forces the guard to grab hold of his keys and unlock her cell, thus marking her escape.
+s - 222 - Scene Description:  The camera focuses on Katara, who is clearly distressed and breaks down in tears. Hama is shown laughing evilly as she is dragged away by the villagers. The camera returns to focus on Katara, who is crying underneath the full moon as Aang, arm around her, and Sokka, hand on her back, attempt to comfort her. Fades to credits.

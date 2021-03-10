@@ -1,0 +1,15 @@
+s - 2 - Sokka:  [Looking up at her.] You mean getting thoroughly spanked by the Fire Nation or having to walk all the way to the Western Air Temple?
+m - 9 - Scene Description:  Cut to view of The Duke walking next to Sokka.
+m - 12 - Scene Description:  Brief view of the team from behind before we see Toph's foot stamp down. Cut to Toph looking up, smiling.
+m - 12 - Scene Description:  Cut to a wide panning shot of the surrounding area. A cliff edge in front of the gang.
+m - 13 - Scene Description:  Sokka looks around before shrugging. Cut to the front of the gang as the camera pans down, revealing the temple, hidden under the cliff.
+m - 16 - Scene Description:  Cut to Aang with Sokka behind.
+m - 19 - Scene Description:  At another part of the temple, Zuko descends down a rope and swings back and forth twice before jumping down. When he lands on the ground, he has a flashback to three years ago, just after his banishment. Cut to a frontal shot of the cliff similar to the one Toph and the group were on earlier. Camera pans down to show the various natural structures through the mist of the temple.
+m - 22 - Scene Description:  Cut to Zuko with covering over his fresh scar. Iroh stands behind him.
+m - 29 - Scene Description:  The three head off. Cut to Katara and Aang.
+s - 101 - Sokka:  Or when he burned down Kyoshi Island!
+s - 132 - Toph:  My feet got burned!
+s - 154 - Zuko:  Stop! [Team Avatar turns their head up to the sound.] I don't want you hunting the Avatar anymore! [Cut to a quick close up of Aang looking up with shock as he is helping Sokka carry Toph. Cut back to Zuko as he stands in front of Combustion Man, arms spread out to block him.] The mission is off. I'm ordering you to stop.
+s - 155 - Scene Description:  Cut to Toph's feet as they are dipped into a fountain.
+s - 168 - Scene Description:  As the team runs back to their hiding spot, Combustion Man gears up again, but is dizzy and cannot aim properly. His next shot fails to escape, causing an explosion around him resulting in the building he stands on getting destroyed. Cut to his metal arm as it flies away from the explosion, followed by the falling building. The gang looks on, shocked. Haru, Teo, and The Duke all appear from behind a pillar also shocked.
+m - 177 - Scene Description:  The two exit. Cut to Zuko as he pulls out a painting of Iroh. He subsequently has another flashback to three years ago.

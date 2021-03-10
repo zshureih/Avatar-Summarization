@@ -1,0 +1,16 @@
+m - 33 - Pathik:  You must gain balance within yourself, before you can bring balance to the world. And the first step to gaining balance begins with this. [Hands Aang a yellow beverage in a wooden cup.] Drink up!
+m - 46 - Scene Description:  Toph looks sad as she places her hand on a side of the metal box. The scene cuts to that night, and where Azula, Mai and Ty Lee are staying which is a small building in the Upper Ring. Mai and Ty Lee are removing their make-up. A smiling Ty Lee is looking in a mirror. She is wiping the last traces of her Kyoshi makeup from her face. Mai is seated next to Ty Lee, still working on her own face.
+s - 52 - Pathik:  In order to master the Avatar State, you must open all the chakras. Aang, tell me everything you know about chakras.
+m - 58 - Pathik:  Yes. But, if we open the ponds between the pools ... [He removes moss blocking the exit for the water.]
+m - 72 - Aang:  [Sees the image of him leaving home.] I ran away. [Sees images of him in the Avatar State at General Fong's base.] I hurt all of those people.
+s - 86 - Scene Description:  Sokka smiles and departs. Back in Ba Sing Se, at the Jasmine Dragon. Zuko and Iroh observe the happenings standing at the back.
+m - 93 - Pathik:  [Chuckles.] Good one! Moving on. This chakra deals with willpower, and is blocked by shame. What are you ashamed of? [Cuts to Aang's vision of his first attempt at firebending, which resulted in him accidentally burning Katara's hands.] What are your biggest disappointments in yourself?
+m - 96 - Pathik:  You will never find balance if you deny this part of your life. You are the Avatar and therefore, you are a firebender. [Aang breathes deeply.] Hmmm ... that chakra opened less like a flowing creek, and more like a ... burping bison.
+m - 111 - Pathik:  The fourth chakra is located in the heart. It deals with love and is blocked by grief. [Aang smiles and looks at a Air Nomad statue nearby before looking sad.] Lay all your grief out in front of you.
+m - 127 - Scene Description:  As Pathik speaks, the camera fades to Xin Fu and Yu trying to take Toph home. She feels around the metal cage with seismic sense and feels tiny particles of earth in the metal. She smiles, exhales deeply and begins to push against the metal.
+s - 131 - Scene Description:  Katara notices Zuko and Iroh. Stunned, she runs away from the shop.
+s - 146 - Scene Description:  Katara notices "Suki" has gold eyes and is shocked upon realization that the "Kyoshi Warriors" are actually Azula, Mai, and Ty Lee. She prepares to attack, but Ty Lee quickly jumps forward and blocks her chi.
+s - 147 - Pathik:  Aang, to master the Avatar State, you must open all the chakras. Surrender yourself.
+s - 150 - Azula:  [While the three girls gather around the fallen Katara; pans to camera looking up to the three girls.] So, Zuzu's in the city, too? I think it's time for a family reunion. [Momo flies off.]
+s - 166 - Long Feng:  But you're not a Kyoshi Warrior, are you, [Standing.] Princess Azula of the Fire Nation?
+s - 175 - Scene Description:  Long Feng smiles. Back at the Jasmine Dragon, a royal messenger enters.

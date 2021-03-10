@@ -1,0 +1,16 @@
+s - 26 - Sokka:  [Sarcastically.] Boo-hoo, [Shot of Sokka from behind looking back.] poor heroes. [Turns away.]
+s - 39 - Sokka:  Shopping! [Clapping excitedly. Runs toward the camera. Cut to side-view as he approaches to view some weapons.] Maybe a little something to reinvigorate my battling. [Spots some nunchaku.] Hey, how about these? [Frontal view of Sokka. Sokka tests the nunchaku, making attacking noises, but he hits himself on the head and falls into some of the other weapons.]
+s - 48 - Sokka:  [Close-up.] Ooh! [Walks to the sword. Side-view of Sokka inspecting the sword.] That's what Sokka's talking about.
+m - 49 - Weapons store shopkeeper:  You have a good eye. [Aerial view of Sokka as shopkeeper approaches.] That's an original from Piandao, [Katara, Toph and Aang approach.] the greatest swordsmaster and sword maker in Fire Nation history. [Close-up.] He lives in the big castle up the road from here. [Walks away.]
+s - 69 - Piandao:  [Close-up side-view.] Hm, I see. [Smiles and turns his head. Cut to his hand picking up his sword.] Well, then, [Close-up of Sokka.] let's find out together how worthy you are.
+m - 77 - Sokka:  [Close-up.] Like a second head.
+m - 88 - Scene Description:  Cut back to view of the countryside.
+s - 105 - Scene Description:  Frontal view of Sokka, who gapes in disbelief. Side-view as he turns to look at the waterfall, but Piandao turns his head back.
+m - 110 - Piandao:  [Off-screen.] Sokka.
+s - 135 - Piandao:  [Frontal view of feet. Camera pans up to his face.] You messed things up in a very special way. You are ready for a real sword.
+m - 143 - Katara:  [Close-up of Sokka and Katara with Aang in the foreground.] We missed you so much!
+s - 157 - Sokka:  [Overhead view from behind Piandao.] Oh, these are my friends. Just other good Fire Nation folks. [They bow to Piandao. Cut to Piandao, who bows back. The camera zooms out to show the meteorite and Sokka.] Do you think we can make a sword out of a meteorite<U+200C>?
+m - 180 - Scene Description:  Cut to a frontal shot of Aang, Katara and Toph with Fat and Piandao facing toward them, their backs to the camera.
+m - 182 - Scene Description:  Cuts to a close-up of the tile in Sokka's hands.
+s - 192 - Toph:  [Taking the rock. Side-view.] Sweet! [Cut to a close-up of the space earth floating between Toph's hands. She shapes it into a swirl, a star, and a splatter shaped similar to the Nickelodeon logo.] Check this out.
+m - 196 - Scene Description:  Cut to a wide, overhead shot of Piandao's castle and Team Avatar walking away.

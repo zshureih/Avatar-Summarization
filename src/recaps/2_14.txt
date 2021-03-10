@@ -1,0 +1,16 @@
+m - 22 - Joo Dee:  [Close-up on Joo Dee's face.] You're in Ba Sing Se now. Everyone is safe here.
+m - 25 - Joo Dee:  Oh, Ba Sing Se has many walls! There are the ones outside protecting us, and the ones inside, that help maintain order. [Shot changes to outside the carriage as the camera pans across some refugees.] This is where our newest arrivals live, as well as our craftsman and artisans, people that work with their hands. [Shot changes back to inside the carriage.] It's so quaint and lively!
+s - 43 - Sokka:  Yeah, we met a professor from the Ba Sing Se University. He took us to an ancient underground library where we discovered information about the war that is [Cut to inside carriage. Leaning toward Joo Dee, losing his patience.] absolutely crucial for the Earth King to hear!
+s - 69 - Scene Description:  Overhead view of inside of carriage. Aang nods his head, sadly. Cut to a shot of sky, with Momo flying, and descending and landing on the roof of a small house.
+s - 69 - Joo Dee:  [Close-up view.] More good news! Your request for an audience with the Earth King is being processed, and should be put through in about month. [Cut to behind the gang looking down at Joo Dee.] Much more quickly than usual!
+s - 73 - Sokka:  [Close-up view of Team Avatar. Surprised.] A month?
+m - 106 - Iroh:  [Pan across to Iroh through another window.] "Sick of tea?" That's like being sick of breathing! [He rummages through the cupboard beneath the counter, where he is standing. Close-up view of kettle.] Have you seen the spark rocks to heat up the water?
+m - 110 - Zuko:  [Close-up of Jet.] We've been working in a tea shop all day! [View from the outside in to the window where Zuko lays on a bed.] I'm sick of tea!
+m - 113 - Iroh:  [View through window. Coming back to the counter.] I borrowed our neighbors'. Such kind people.
+s - 130 - Scene Description:  The scene changes to a shot of house, at dusk, and changes to inside the house, where Sokka and Aang are playing a game. Close-up of their hands.
+s - 131 - Sokka:  [Stands up also wearing a curtain like a robe. Mimicking a typical high class person.] Avatar Aang, how do you do? Go on.
+m - 201 - Jet:  You see that<U+200C>?! [Aerial view.] The Fire Nation is trying to silence me. [View behind Zuko looking at Jet.] It'll never happen.
+s - 256 - Sokka:  [Side-view of room.] But we found out about a solar eclipse that will leave the Fire Nation defenseless. You could lead an invasion ...
+m - 257 - Long Feng:  [Frontal view.] Oh, no, no. His Majesty is an icon, a god to his people. He can't sully his hands with the hourly change of an endless war.
+s - 274 - Scene Description:  Close-up view of Jet as he watches the lamp continues passing by his face. The screen flashes white and cuts back to Long Feng.
+m - 282 - Scene Description:  Joo Dee smiles cheerfully at the group in the same artificial way. Fade to credits.

@@ -1,0 +1,16 @@
+s - 24 - Zuko:  The highest security prison in the Fire Nation. [Sokka looks at him, horrified.] It's on an island in the middle of a boiling lake. It's inescapable.
+m - 35 - Sokka:  [Falls off Appa, his bag's contents fall out.] Fine, you caught me. I'm gonna rescue my dad. You happy now?
+s - 38 - Zuko:  How are you going to get there? On Appa? Last time I checked, prisons don't have bison daycares. [Sokka stops climbing, sighs, and looks back at Zuko.] We'll take my war balloon. [They walk off to the war balloon.]
+m - 59 - Sokka:  [Smiles and looks at Zuko with interest.] That gloomy girl who sighs a lot?
+m - 92 - Bully guard:  He wants to know what he did. [To Zuko and Sokka.] Isn't that cute? [Gives them a look when they say nothing.]
+s - 102 - Bully guard:  The warden will deal with you soon. [Sokka closes the doors.] Can you believe this guy?
+s - 106 - Scene Description:  Meal time for the guards. Zuko is getting food, noticeably the only guard wearing a helmet.
+s - 114 - Bully guard:  That's why we call it the cooler. He won't be firebending there. [Notices someone coming; lowers his mask.] It's the warden! [He and Sokka stand to attention.] Look alive!
+m - 139 - Scene Description:  Sokka purses his lips and attempts smooching sounds as he leans in to kiss Suki. His lips are suddenly grasped by a hand. The camera switches to the side-shot as Suki violently shoves him against the door. Frontal shot of Sokka as he makes contact with the door, his helm flinging off in the process. He looks bewildered to Suki. Cut to a close-up of Suki, her left arm still stretched out in the move she used to push him away. Her angry expression instantly brightens.
+m - 141 - Sokka:  [They both stand up, not releasing each other.] The other Kyoshi Warriors, are they here?
+s - 150 - Female guard:  [Instantly cut to a frontal shot of Sokka, who freezes over.] Guard, help! [He turns to look at the struggle.] I think he's an impostor! [Frontal shot of Sokka, looking unsure.] Arrest him!
+m - 183 - Chit Sang:  [Unconvinced.] Okay, well, I come with you or the warden [Camera pans from a serious-looking Zuko to Suki.] hears about this egg, too.
+m - 185 - Scene Description:  Cut to a view of the stairs as two guards look down at the prison area. Chit Sang walks out from behind the stairs and stands in a spot. Zuko pretends to be mopping and bumps into Chit Sang.
+s - 212 - Sokka:  Fine. Everybody in the cooler. Let's go. [They move the cooler into the water. Cut to Sokka lifting a rock hiding his Water Tribe outfit.]
+s - 241 - Sokka:  [Cut to Sokka, Shocked.] Dad ...
+m - 242 - Scene Description:  Cut to a large man with a tattoo and nose ring comes off the gondola first.

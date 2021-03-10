@@ -1,0 +1,17 @@
+s - 1 - Sokka:  [Hanging lazily over the back of Appa's saddle; grumpily.] I'm not one to complain, [Side-view shows Appa flying just above the water.] but can't Appa fly any higher?
+s - 4 - Sokka:  [Back-view of Sokka looking over his shoulder; sarcastically.] I'd love to. [Points to his back.] Climb on everyone, [Shakes his rear.] Sokka's ready for take off.
+m - 9 - Scene Description:  Cut to a more far-off shot of the scene, revealing Appa to be frozen in the water, with six Water Tribe boats surrounding him.
+The scene switches to a Fire Navy base in the Fire Nation harbor. The camera cuts to inside a guarded tent, where Zhao is standing before a map of the Avatar World.
+m - 21 - Scene Description:  The scene changes to nightfall, where Zuko's ship is docked in a port. Members of the crew have gathered for music night on the ship. Lieutenant Jee plays a lute as Iroh sings. Several other crew members play instruments or dance.
+m - 23 - Scene Description:  The music stops as they notice Admiral Zhao boarding the ship, along with two soldiers. The crew looks in surprise at the admiral. A high-pitched chord emits from the lute. The scene switches back to the Northern Water Tribe, where Team Avatar is being honored with a feast, hosted by the tribe's chief. Men play drums and a giant crab is set in a pool of water.
+s - 31 - Katara:  [Hopping in on the conversation; teasingly.] Ha, prince of what?
+s - 35 - Yue:  [Slightly confused; laughs.] Do an activity?
+m - 38 - Scene Description:  Cut to a long shot of the plaza fountain. In front of it stand the Chief, Master Pakku and Aang. Arnook and Aang go to Pakku.
+m - 61 - Scene Description:  Cut to a shot panning up Katara's body, her face clearly reflecting the anger she feels.
+Cut to a long, overhead shot of the Northern Water Tribe city, looking back from the main wall to the citadel. Cut back to a close up of Katara.
+s - 99 - Scene Description:  Back at Pakku's class. Aang is working with a stream of water.
+s - 128 - Scene Description:  Shows her a roughly-crafted creature.
+s - 139 - Aang:  [Bending up some water.] Master Pakku said this move is all about sinking and floating. [Sends the water to her.]
+m - 164 - Scene Description:  Back at the Fire Navy base. Zhao meets with Iroh over tea.
+m - 220 - Scene Description:  Cut to a panning overhead shot, which reveals dozens of Fire Navy ships firing up their engines in preparation to launch the final assault on the Northern Water Tribe.
+m - 221 - Scene Description:  Back at the Fire Navy fleet. Zhao and Iroh stand on top of the lead ship.

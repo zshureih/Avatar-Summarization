@@ -1,0 +1,16 @@
+s - 24 - Lo:  [Cut to close-up of three rocks on a table. Grabs a smooth rock. Cut to frontal view of the sisters from behind Azula, Ty Lee, and Zuko.] The beach has a special way ...
+s - 24 - Li:  [Takes the rock from Lo. Cut close-up as she speaks.] ... of smoothing even the most ragged edges.
+s - 47 - Ember Island teenager #2:  [Frontal view of the two teens from the side of Ty Lee. The first teen showing his anger.] Not as pretty as you are.
+s - 49 - Ty Lee:  [Close-up. Blocks her eyes.] Ahem! Shade. Shade!
+m - 57 - Azula:  [Frontal view, camera zooms in, through the squares of the net; evilly.] Yes! We defeated you for all time! You will never rise from the ashes of your shame and humiliation! [Frontal view of Ty Lee, Mai, Zuko, and Azula. To Zuko, Mai, and Ty Lee; calmly.] Well. That was fun.
+s - 65 - Scene Description:  Cut to wide-view of the beach house. Cut inside, aerial view of the group eating with Lo and Li.
+m - 66 - Azula:  I guess I was intrigued. [Frontal view of Azula and Ty Lee from between Zuko and Mai.] I'm so used to people worshiping us.
+m - 72 - Lo:  [Aerial view from behind Zuko and Mai showing the entire group.] Ember Island reveals the true you.
+m - 73 - Li:  [Side-view.] Like waves washing away the footprints on the sand, [Frontal view of Mai and Zuko.] Ember Island gives everyone a clean slate.
+m - 121 - Azula:  [Close-up; softly.] Together, [Camera zooms out as she steps back; her voice grows progressively louder.] you and I will be the strongest couple in the entire world! [Creates blue fireballs in her hands.] We will dominate the Earth!
+m - 130 - Zuko:  [Snapping back.] Well, at least I feel something, as opposed to you. [Frontal view from behind Mai.] You have no passion for anything! You're just a big blah!
+s - 154 - Scene Description:  Cut to a close-up of a campfire. The picture of the Royal Family is thrown into the fire. Cut to a close-up of Zuko in the picture as it begins to burn.
+s - 158 - Ty Lee:  [Close-up aerial view of Zuko standing next to the fire.] But, it's a painting of your family.
+m - 191 - Zuko:  [Frontal view from behind the girls. Losing it now; furiously.] I'm angry at myself!
+s - 196 - Azula:  [Claps. Camera zooms out to show her as Mai and Zuko turn.] Well, those were wonderful performances, everyone.
+m - 197 - Mai:  [View from behind Zuko.] I know one thing I care about. [Walks up to Zuko. Frontal view.] I care about you. [They kiss.]

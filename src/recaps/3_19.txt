@@ -1,0 +1,16 @@
+m - 0 - Scene Description:  The episode opens at night to a wide shot of the Earth Kingdom tavern, Appa resting outside. Cut inside to frontal view of Team Avatar, sans Aang. June kicks a chair in the foreground and sits down and begins drinking her tea.
+m - 13 - Scene Description:  Cut to side-view of Appa and Nyla growling at each other. Appa licks Nyla, and they lay down. They both stand up as the gang and June walking toward them. Cut to frontal view of the approaching group as June holds up a piece of meat.
+m - 47 - Scene Description:  Cut back to Outer Walls of Ba Sing Se. Wide shot of the entire group now joined by the masters.
+m - 48 - Katara:  Not just any old people. [Walks up to Pakku. Side-view of the masters.] These are great masters and friends of ours. [Camera pans and zooms in on Katara and Pakku as she bows to Pakku.] Pakku.
+s - 53 - Pakku:  [Close-up. Not amused.] No. [Side-view of Zuko and Pakku as Sokka walks away behind Katara sadly. Camera zooms out to show Jeong Jeong.]
+s - 55 - Katara:  [Zuko walks up to Jeong Jeong.] And this was Aang's first firebending teacher.
+m - 56 - Sokka:  [Side-view. Bows to Piandao.] Master Piandao.
+s - 58 - Jeong Jeong:  [Close-up. Bows.] Jeong Jeong.
+s - 60 - Pakku:  [Cut close-up behind Zuko with Pakku and Katara in the background. To Zuko.] It came from a Grand Lotus: your uncle, [Close-up of Zuko.] Iroh of the Fire Nation. [Zuko smiles.]
+s - 63 - Bumi:  [Frontal view of Piandao and Jeong Jeong. Bumi slides in front of the camera.] That's the one. [Slides off camera.]
+s - 63 - Bumi:  [Appears behind Piandao and Jeong Jeong and pushes them out of the way.] Wait! Someone's missing from your group. [Walks up to the camera.] Someone very important. [Walks right up to the camera.] Where's Momo?
+s - 91 - Zuko:  [Side-view of Jeong Jeong, Piandao, and Pakku. As Zuko speaks, Jeong Jeong and Pakku walk off and Appa stops behind Zuko and Piandao.] Where ... where is he?
+m - 95 - Scene Description:  Zuko stands up. Cut to side-view of him standing at the tents entrance and he exhales deeply. He walks into the tent. Cut to an aerial view inside the tent.
+m - 145 - Scene Description:  Cuts to side-view of Toph and Suki on board an eel hound. The camera zooms out to show the entire eel hound and Sokka and Piandao are on the ground beside it.
+s - 146 - Iroh:  [Frontal view.] After I re-conquer Ba Sing Se, I'm going to re-conquer my tea shop, and I'm going to play Pai Sho every day. [Flips a Pai Sho piece and catches it as he speaks.]
+m - 157 - Scene Description:  The lion turtle placed two claws on Aang, one on his forehead and the other on his chest, and a bright light issues forth from it. Fade to side-view of the lion turtle's paw as it moves slowly toward a small cliff in the Earth Kingdom, and Aang steps off onto dry land. Momo flies onto Aang's shoulder. Cut to frontal view of the lion turtle from behind Aang.

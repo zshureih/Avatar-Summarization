@@ -1,0 +1,16 @@
+s - 7 - Katara:  [Walks under his right arm.] Your arms are too far apart. [Positions his arms closer together.] See, if you move them closer together, you protect your center. You got it?
+m - 10 - Katara:  [Proudly.] You make a fine octopus, Pupil Aang.
+m - 13 - Chong:  [Singing.] Da, da, da. Don't fall in love with the traveling girl. She'll leave you broke and brokenhearted. [Cuts to shot of the team standing in the lake. Sokka unexpectedly falls off his leaf into the water. Cuts to nomads. Chong stops singing and points at the group.] Hey, river people!
+s - 43 - Chong:  Oh, it's a real legend. And it's as old as earthbending itself. [Begins strumming his lute and singing.] Two lovers, forbidden from one another, the war divides their people and the mountain divides them apart! Built a path to be together! [Stops playing.] Yeah, I forget the next couple of lines, but then it goes ... [Resumes singing.] Secret tunnel! Secret tunnel! Through the mountains, secret, secret, secret, secret tunnel! Yeah!
+m - 48 - Commander:  [Pointing at the trio on Appa.] Launch!
+m - 50 - Iroh:  Zuko, [Cut to a wide, overhead shot of Zuko standing behind Iroh.] remember that plant I thought might be tea?
+m - 59 - Iroh:  But where are we going to go? [Kneeling down and scratching his rash vigorously.] We're enemies of the Earth Kingdom and fugitives from the Fire Nation. [Camera zooms in on his reddened leg.]
+m - 61 - Zuko:  [Nodding and walking away with Iroh.] Earth Kingdom it is.
+m - 69 - Scene Description:  Camera pans to the dark entrance of the cave.
+s - 72 - Sokka:  [Cuts to shot of inscription on the side of the cave entrance.] What exactly is this curse?
+s - 81 - Scene Description:  They all begin to enter the cave. Cuts to a close-up of Appa as he groans. Several Fire Nation tanks rumble across the terrain toward the entrance of the tunnel and pause once they reach the mouth of the cave.
+s - 112 - Scene Description:  A wave of surprise passes over everyone as the tunnels shake. The scene cuts to nighttime to a house. Cuts to a shot of an open-wall dining room where Zuko and Iroh are sitting around Song's kitchen table.
+m - 131 - Chong:  [Singing as he and the nomads pass the angry warrior.] Oh, don't let the cave-in get you down! [Cuts to shot of him.] Don't let the falling rocks turn your smile into a frown! [He goes off-screen and Moku passes by, nudging Sokka.] When the tunnels are darkest, that's when you need a clown, hey! [Re-enters.] Don't let the cave-in get you down, Sokka!
+s - 140 - Katara:  [Voice-over.] The villages were enemies, so they could not be together ... [Character flashes red as the background turns grim and dark.] but their love was strong and they found a way.
+s - 157 - Katara:  [Reading the inscription on the relief in the wall.] Love is brightest [Cuts to shot of a carving of the couple kissing.] in the dark.
+s - 233 - Chong:  Hey! Good plan! [Begins playing his lute and singing. Cuts to shot of Team Avatar.] Even if you're lost, you can't lose the love because it's in your heart. Da, da, da ...

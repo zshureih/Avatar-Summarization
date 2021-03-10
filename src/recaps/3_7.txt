@@ -1,0 +1,16 @@
+m - 0 - Scene Description:  The episode opens in Fire Fountain City, where a giant statue of Fire Lord Ozai roaring is shown with flames coming from the fists and out of the mouth. The camera moves down to Toph, who is seen running from someone, but turns around and is caught with a net and falls to the ground. She angrily looks in front of her at someone.
+m - 3 - Scene Description:  Toph is dragged away in the net, all the while glaring back at Katara. The screen fades to three days earlier. Toph and Katara are seen facing each other, each taking a fighting stance, the latter controlling two streams of water in her hands. Aang appears on the screen, tying his headband over his eyes like a blindfold.
+m - 26 - Scene Description:  Aang, Sokka and Toph head to Fire Fountain City. Sokka is carrying his sword horizontally across his shoulders. He looks up and sees messenger hawks flying in and out of a large coop.
+s - 29 - Toph:  [Stops walking.] We can get more money. [They both look back at her.] Right there. [Points to an area beneath them. Aang and Sokka move back to look where she is pointing.]
+s - 43 - Dealer:  [Moves his hand over to the shell, about to lift it.] Sorry, little lady, but- [Lifts up the shell and sees the rock, which shocks and confuses him.] Huh? [Stares closely at the rock.]
+s - 66 - Toph:  [Stands up; angrily.] Look, I ran away to help Aang!
+s - 72 - Toph:  [Angrily.] I'll stop when I wanna stop and not when you tell me! [Uses earthbending to launch the bag of money behind her into her hand and walks away angrily. Katara shakes her head angrily as Toph sits and creates an earth tent.]
+m - 75 - Scene Description:  The scene changes to back at camp. Katara and Aang are practicing waterbending, while Toph is counting her money. Sokka walks up to her.
+s - 85 - Katara:  Sokka, [Places her hand on her face; annoyed.] tell me you didn't buy a bird.
+s - 88 - Sokka:  Hawky! Make nice! Bad Hawky!
+s - 92 - Katara:  [Starts to pull something out.] Well then. What's this? [Shows Toph her wanted poster.]
+m - 145 - Scene Description:  The scene changes to Katara and Toph going over the plan. Katara is looking at Toph's wanted poster.
+m - 153 - Scene Description:  Meanwhile, a female guard drags Toph into a jail. She throws Toph from the net into a wooden cell and closes it. Toph feels the floor of her cell, but is shocked when she can't sense any earth in it. She gets up and looks outside the cell at the guard.
+m - 160 - Scene Description:  Katara turns and sees the assassin with the third eye tattooed on his head, aka "Sparky-Sparky-Boom Man", walk in, leaving her shocked and horrified. Meanwhile, at camp, Sokka and Aang are worried, the latter pacing back and forth.
+s - 161 - Female guard:  A wooden one. [She walks away as Toph becomes visibly worried.]
+m - 194 - Scene Description:  Katara waterbends another blade of sweat, this time from under her arms. Cut to Aang and Sokka being chased by the assassin. The assassin fires a blast at them which they dodge but still get sent flying. Sokka crashes onto a wheelbarrow, which they hide behind.

@@ -1,0 +1,15 @@
+s - 9 - Flyer distribution man:  Psst, psst! Hey, you kids love earthbending? You like ... throwing rocks? Then check out Master Yu's Earthbending Academy.
+m - 14 - Yu:  Take your stances! [His students take their fighting stances, except for Aang.] Now, strike as if you're punching through your opponent's head!
+s - 19 - Male student:  [Leaves the Earthbending Academy, accompanied by another student.] I think The Boulder's going to win back the belt at Earth Rumble VI.
+s - 23 - Male student:  [Sarcastically.] It's on the island of Noneya ... "Noneya" business!
+m - 36 - Xin Fu:  The rules are simple. Just knock the other guy out of the ring, and you win! [Leaps up to a podium above the ring. A bell rings.] Round one: The Boulder vs. The Big Bad Hippo! [While Xin Fu speaks, The Boulder raises his arms and turns around to the cheering of the audience. The Hippo roars.]
+m - 55 - Sokka:  Yeah! Wooo! [Points at Fire Nation Man.] The Boulder knows how to put the hurt in the dirt! [Close-up of Sokka as he continues to cheer and make taunting faces.] Yeah! Woohoo!
+m - 60 - Scene Description:  Sokka's movement causing Aang to flinch back and Momo to coo and hide in the bag Sokka bought earlier on the market. Cut to a shot of the Blind Bandit that nearly instantly moves back to a view from on the arena's floor level. The Boulder confidently puts his foot in the middle of the screen, cracking the floor in the process and throwing up some dust. Cut to a frog-point frontal view of the fighter.
+m - 76 - Sokka:  Go Aang! Avenge The Boulder!
+s - 114 - Scene Description:  Back at the Earth Rumble VI venue.
+m - 116 - Sokka:  [States coolly.] Water Tribe.
+m - 117 - Xin Fu:  [Slams the wall, causing rocks to land on his feet; cries out in anger and pain.] Nobody cheats Xin Fu.
+m - 119 - Scene Description:  Shift to a wide, overhead shot of a walled country estate with a lovely garden and many ponds. It is daylight. A shot of the gate tilts up to reveal a crest with a flying boar emblazoned upon it. Cut to the three kids spying on the gate.
+s - 121 - Aang:  Well, a crazy king told me I had to find an earthbender who listens to the earth. And then I had a vision in a magic swamp, [Toph raises her eye in disbelief.] and -
+s - 137 - Aang:  I'd like to defeat the Fire Lord by the end of summer, but I can't do that without finding an earthbending teacher first. [Close-up of Toph with a annoyed look.]
+s - 155 - Toph:  Relax. Look, I'm sorry about dinner. Let's call a truce, okay? [Aang lets down his defensive position and the two head out to the yard. Toph walks along the side of a bridge.] Even though I was born blind, I've never had a problem seeing. [Jumps down.] I see with earthbending. It's kind of like seeing with my feet. I feel the vibrations in the Earth, and I can see where everything is. [The camera shows an aerial view.] You, that tree ... [Cut back to the ground.] even those ants.

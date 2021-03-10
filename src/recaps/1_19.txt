@@ -1,0 +1,15 @@
+m - 25 - Yue:  [Camera zooms out to Appa flying through the gray snowfall; worried.] What's happening?
+m - 51 - Scene Description:  She runs past Sokka up the stairs quickly. Closes up on Sokka, who looks on with dismay. The scene cuts to inside the chief's Royal Palace.
+m - 59 - Scene Description:  He and Appa take flight, heading toward the fleet. Cuts to the warriors who regather themselves, helping each other up.
+s - 85 - Scene Description:  Scene fades to sunset where fireballs are continually launched. A bird's-eye view is shown of the fleet attacking the city. Cuts to several fireballs; camera pans downward to show them hitting the city.
+s - 86 - Scene Description:  The lead ship drops its anchor, followed by the rest of the ships, who drop their anchors and cease the attack. Cuts to a shot of the city, smoke billowing from several spots. Yue can be seen looking out over the horizon.
+m - 87 - Scene Description:  Cuts to shot of oncoming fireball. The waterbenders bend up a column of water and freeze it, capturing the fireball. Cuts to side-view of the leading ships of the fleet, the uprooted ship in view. The scene cuts to the interior of Zhao's ship.
+m - 107 - Scene Description:  The shot cuts to the city, several ships lying stationery ahead of him. Back inside the warriors' base. Hahn and Sokka sharpen their axes against grindstones.
+s - 115 - Sokka:  [Irritated, waves arms in gesture.] It's Admiral Zhao!
+s - 116 - Scene Description:  He pulls down the mask covering his mouth and nose and inhales deeply. Cuts to shot of Zuko from beneath the water; he plunges into the water. The scene changes, cutting to a shot of the waxing gibbous moon hanging in the sky.
+m - 118 - Zuko:  [Peering down into the hole.] Where are they going? [Cuts to a shot of the hole, his face reflected in the water.] They're coming up for air somewhere.
+m - 134 - Scene Description:  The two girls remove their coats. Cuts to view of two fish, one black and one white, swimming about in the pond. Momo sticks his hand in the pond and tries to grab the two fish in the water. Cuts to shot of the two girls standing over him, looking rather irritated.
+m - 162 - Scene Description:  Sokka and Yue enter on Appa.
+s - 164 - Scene Description:  The scene changes to where Fire Navy ships break through the city wall, their bows crumbling the wall, allowing soldiers armed with spears to rush in.
+s - 174 - Scene Description:  The camera pans upward to above the oasis where Zuko is seen walking through a blizzard with Aang in tow. Cuts to shot of them walking away. The camera pans upward to show the snow falling.
+s - 176 - Scene Description:  Fades to credits.

@@ -1,0 +1,16 @@
+m - 27 - Katara:  [Water whips two guards.] Sorry!
+m - 57 - Scene Description:  The Dai Li rush behind Team Avatar.
+s - 59 - Kuei:  The Avatar? [Points at Sokka.] You're the Avatar?
+s - 72 - Long Feng:  What? I am not disrobing! [The king looks thoughtful before looking at Sokka suspiciously.]
+m - 73 - Sokka:  Wait! [Turns to face the king with a big smile.] I can prove he's lying. Long Feng said he's never seen a sky bison. Ask him to lift his robe.
+m - 112 - Scene Description:  Zuko slowly starts to shut his eyes but widely opens them upon hearing the other dragon.
+m - 117 - Blue dragon:  Sleep. [Voice grows louder and more hostile as it continues talking.]�Just like mother!
+s - 122 - Long Feng:  [Appears on an earth elevator with two Dai Li agents.] I can explain this, Your Majesty. [Walks toward the king.] This is nothing more than ... a construction project. [Gestures his hand to the drill.]
+s - 123 - Sokka:  It's a drill. A giant drill [Cut to the drill.] made by the Fire Nation to break through your walls. [Cut to a close-up of the king who looks horrified.]
+s - 125 - Katara:  [Sarcastically.] Really? Then perhaps you could explain why there's a [Points to the drill as Kuei follows to where she is pointing. Cut to the Fire Nation insignia clearly shown on the drill.] Fire Nation insignia on your "construction project".
+s - 125 - Kuei:  [Looks at Team Avatar and Long Feng.] Dai Li! Arrest Long Feng! I want him to stand trial for crimes against the Earth Kingdom.
+s - 177 - Scene Description:  Outside the Palace, Team Avatar is preparing to leave. The king walks down to them. Katara is petting Appa. Aang turns to face her.
+m - 186 - Sokka:  [Shocked.] That's Suki! [Falls off Appa.]
+m - 190 - Katara:  [Hugs Toph with Aang. Sokka looks away, crossing his arms.] Me too.
+m - 196 - Agent:  [Slides a tray of food underneath the door.] Dinner. [Long Feng grabs some food.] The Council of Five and the military are loyal to the Earth King, [Long Feng looks at him.] but the Dai Li remains loyal to you, Long Feng, sir. [Walks away as Long Feng eats his food while smiling sinisterly.]
+s - 210 - Scene Description:  Xin Fu, the head of a fighting promotion Toph was in, and Master Yu, Toph's former earthbending master, appear.

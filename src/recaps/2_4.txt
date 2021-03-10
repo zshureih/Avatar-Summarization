@@ -1,0 +1,16 @@
+s - 3 - Iroh:  They will if you ask nicely. [A peasant woman strolls past; somewhat dramatically.] Spare change for a hungry old man?
+s - 11 - Iroh:  [Singing.] They kiss so sweet that you really got to meet the girls from Ba Sing Se!
+s - 23 - Aang:  I don't know. Bumi said to learn earthbending I would have to wait and listen, and now I'm actually hearing the earth. Do you want me to ignore it?
+m - 29 - Aang:  [Looking around the swamp and at his friends.] Where's Appa and Momo? [Aang jumps up to the top of the trees, looking for his animal friends as he uses the height to search for them.] Appa! Momo!
+m - 31 - Aang:  [Resignedly.] Okay, since everyone feels so strongly about this, [Looks at swamp.] bye swamp. [Shakes Appa's rope.] Yip, Yip!
+m - 33 - Sokka:  [Panicked.] You better throw in an extra "yip"! We gotta move!
+m - 50 - Katara:  [Yelling.] Appa! Momo!
+m - 73 - Katara:  Hello? Hello? Can you help me? [She squints.] Mom? [More loudly and running toward the figure.] Mom!
+m - 77 - Katara:  [Calling out.] Aang! Sokka!
+s - 112 - Sokka:  [Sarcastically, with exaggerated hand movements.] Well, there must be a tea party here and we just didn't get our invitations!
+s - 126 - Sokka:  [Humoring Huu.] Sure you did. It seems real chatty.
+s - 129 - Huu:  Oh the swamp is a mystical place all right. It's sacred. I reached enlightenment right here under the banyan-grove tree. [He sits on the tree, looking at the group as he explains.] I heard it calling me, just like you did.
+m - 143 - Tho:  [Singing and tapping the side of his canoe. Momo is seen struggling inside the sack he has been placed in.] Set my lines by the river bed! Caught ten fish and I killed 'em dead! Cut 'em and gut 'em and I tossed the heads in the water to keep them catgators fed.
+m - 148 - Due:  You too! That means we're kin! [Due ceases waterbending, followed by a slightly disgusted Katara. He watches as Sokka and Huu run up to the branch Katara and Aang are standing on.] Hey Huu! How you been?
+s - 163 - Due:  [Laughing.] Oh, he don't eat no bugs! That's people food.
+s - 166 - Katara:  [Smiling. Sokka is shown chewing nonchalantly next to her.] The South Pole.

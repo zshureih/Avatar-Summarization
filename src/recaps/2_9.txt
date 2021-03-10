@@ -1,0 +1,16 @@
+m - 0 - Scene Description:  The episode opens in a mountainous terrain at sunrise as it pans down and to the right. All of Team Avatar is sleeping. Cut to Aang rising and jumping up with airbending, barefoot, and filled with excitement.
+m - 5 - Aang:  Good morning, Sifu Toph.
+m - 5 - Katara:  [Aang bows slightly to Toph; disappointed and tiredly.] Hey, you never called me Sifu Katara.
+m - 19 - Scene Description:  Both laugh as the scene fades to Iroh in a dream sitting over Lu Ten's tomb.
+s - 43 - Iroh:  Oh yeah, good point! I mean, yes. [Outside.] There is energy all around us. The energy is both yin and yang. Positive energy and negative energy. Only a select few firebenders can separate these energies. This creates an imbalance. The energy wants to restore balance, and in a moment the positive and negative energy come crashing back together, you provide release and guidance, creating lightning. [Steps up, and generates lightning, and shoots it away from the two.]
+s - 48 - Iroh:  Remember, once you separate the energy, you do not command it. You are simply its humble guide. Breathe first.
+m - 50 - Katara:  [Nervously.] Heh.
+m - 81 - Scene Description:  Katara also bows at Aang. Back to Zuko and Iroh.
+s - 83 - Iroh:  It is the combination of the four elements in one person that makes the Avatar so powerful. But it can make you more powerful, too. You see the technique I'm about to teach you is one I learned by studying the waterbenders.
+m - 83 - Scene Description:  She spins Aang's staff above her head. Cut to Aang, who looks over his shoulder with a pained expression on his face. Cut to Toph as she smiles widely, lifts the staff, and starts using it to break nutshells.
+s - 84 - Iroh:  It is important to draw wisdom from many different places. If you take it from only one place, it becomes rigid and stale. [Divides the four insignias into separate sections.] Understanding others, the other elements, and the other nations will help you become whole. [Draws a circle around the insignias.]
+s - 87 - Aang:  [Resumes meditating.] Ohm.
+s - 87 - Aang:  [Frustrated.] Meditating here!
+m - 120 - Scene Description:  Back to the canyon, Aang begins to talk to the saber-tooth moose-lion mother.
+s - 151 - Katara:  You found him! [Embraces Sokka.]
+s - 163 - Aang:  Appa, Appa, I can earthbend now! The key is being completely rooted. Physically and mentally unmovable!

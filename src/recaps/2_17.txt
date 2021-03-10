@@ -1,0 +1,16 @@
+s - 1 - Katara:  [Cheerfully.] We found a printer to make our posters! [Reveals the poster and Aang smiles and points at it.]
+m - 1 - Sokka:  Hey, I thought designing the lost Appa poster was my job. I've been working all day on my Appa! [Shows his crudely drawn picture of Appa with a proud smile. Cut to an exasperated Aang while Katara tries to hold back her laughter.]
+m - 5 - Katara:  [Takes the picture from Sokka, looks confused.] Why are feet coming out of it?
+s - 41 - Joo Dee:  Dropping fliers and putting up posters isn't permitted within the city. Not without proper clearance.
+s - 42 - Joo Dee:  You are absolutely forbidden by the rules of the city to continue putting up posters.
+m - 46 - Toph:  Yeah, let's break some rules! [Takes out a side of the house with earthbending.]
+m - 57 - Zuko:  [Shows Iroh the flyer.] The Avatar is here in Ba Sing Se and he's lost his bison.
+s - 90 - Old Sweepy:  They took that big thing yesterday. [Aang straightens with a shocked look.] Shipped him out to some island. About time, I've been cleaning up fur, and various, uhhh ... leavings all day.
+m - 91 - Katara:  [Preparing to waterbend in defense.] If this is a trap�
+m - 101 - Jet:  Why won't you trust me? [Walks after Sokka and Aang.]
+s - 106 - Scene Description:  Back within the city
+m - 132 - Scene Description:  Back in an unknown building, Team Avatar, Longshot, and Smellerbee all surrounding a seated Jet.
+s - 166 - Scene Description:  Jet and Aang chase him. They head into another part of the headquarters with many pipes of all sizes sticking out of the walls, with some of them pouring out water, but are sealed in by Long Feng.
+m - 213 - Scene Description:  Cut to a close-up of Smellerbee crying. Longshot watches Team Avatar completely leave through a tunnel that is earthbent open before turning the other way to the other exit and standing guard, prepping an arrow. Smellerbee is seen kneeling next to Jet, rubbing her hands back and forth over him, with her right hand on his forehead.
+Team Avatar reaches Appa's hold, only to discover that it is empty.
+s - 222 - Scene Description:  Another group of Dai Li agents, plus Long Feng, stand in front of them. All the agents box them in, lifting up the ground on both sides. Dai Li agents stand on all three walls. Momo flies to Aang.
