@@ -72,7 +72,7 @@ def get_episode_text(episode, season_rows):
     
     return episode_text
 
-def get_concepts(tf_idf, features):
+def get_concepts(tf_idf, features, p):
     sums = tf_idf.sum(axis=0)
     top_grams = []
     for col, term in enumerate(features):
@@ -80,22 +80,30 @@ def get_concepts(tf_idf, features):
     ranking = pd.DataFrame(top_grams, columns=['n_gram', 'rank'])
     grams = (ranking.sort_values('rank', ascending=False))
     grams = grams.to_numpy()
-    return grams
+
+    norm = [float(grams[i][1])/sum(grams[:,1]) for i in range(len(grams))]
+    sampled_concepts = []
+    
+    for i in range(p):
+        sampled_concepts.append(rng.choice(grams, p=norm, replace=False))
+
+    return np.array(sampled_concepts)
 
 
 if __name__ == "__main__":
     # https://huggingface.co/transformers/model_doc/bert.html
     # Load pre-trained model tokenizer (vocabulary)
-    corpus = data_table['full_text'].to_list()
+    # corpus = data_table['full_text'].to_numpy()
+    # bert_inputs = tokenizer.prepare_for_tokenization(corpus)[0]
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-    bert_inputs = tokenizer.prepare_for_tokenization(corpus)[0]
     model = BertModel.from_pretrained('bert-base-uncased', output_hidden_states=True)
     model.eval()
     model.cuda()
 
-    n = 10
+    n = 1000
     vectorizer = TfidfVectorizer(stop_words='english', ngram_range=(7, 7), max_features=n)
     max_lines = 15
+    p = 10
 
     for season in range(min(data_table['book_num']), max(data_table['book_num'] + 1)):
         min_episode = min(data_table[data_table['book_num'] == season]['chapter_num'])
@@ -110,14 +118,14 @@ if __name__ == "__main__":
             episode_tf_idf = vectorizer.fit_transform(episode_text)
             episode_features = vectorizer.get_feature_names() # concept set of D_i
             # get n-grams in episode (c in D_i)
-            episode_top_n_grams = get_concepts(episode_tf_idf, episode_features)
+            episode_top_n_grams = get_concepts(episode_tf_idf, episode_features, p)
     
             # get all text from the next episode in the season
             next_episode_text = get_episode_text(episode + 1, season_rows)
             next_episode_tf_idf = vectorizer.fit_transform(next_episode_text)
             next_episode_features = vectorizer.get_feature_names() # concept set of D_i+1
             # get n-grams in episode (c in D_i+1)
-            next_episode_top_n_grams = get_concepts(next_episode_tf_idf, next_episode_features)
+            next_episode_top_n_grams = get_concepts(next_episode_tf_idf, next_episode_features, p)
             
             # fill R one line at a time
             R = []
@@ -137,7 +145,7 @@ if __name__ == "__main__":
                 print("calculating s")
                 for i, val in enumerate(episode_top_n_grams):
                     feature, score = val
-                    print("progess:", 100 * (i / n), "%")
+                    print("progess:", 100 * (i / len(episode_top_n_grams)), "%")
 
                     cos_sim, sentence, index = get_best_bert_representation(feature, episode_text)
                     episode_sentences.append(("s", index, sentence))
@@ -150,7 +158,7 @@ if __name__ == "__main__":
                 print("calculating m")
                 for i, val in enumerate(next_episode_top_n_grams):
                     feature, score = val
-                    print("progess:", 100 * (i / n), "%")
+                    print("progess:", 100 * (i / len(next_episode_top_n_grams)), "%")
 
                     cos_sim, sentence, index = get_best_bert_representation(feature, episode_text)
                     next_episode_sentences.append(("m", index, sentence))
@@ -169,12 +177,10 @@ if __name__ == "__main__":
                 # else:
                 #     if best_s_score > best_m_score:
                 #         R.append(best_summarizing_sentence)
-                #         episode_text = np.delete(
-                #             episode_text, best_summarizing_sentence[1])
+                #         episode_text = np.delete(episode_text, best_summarizing_sentence[1])
                 #     elif best_s_score < best_m_score:
                 #         R.append(best_recapping_sentence)
-                #         episode_text = np.delete(
-                #             episode_text, best_recapping_sentence[1])
+                #         episode_text = np.delete(episode_text, best_recapping_sentence[1])
                 else:
                     R.append(best_summarizing_sentence)
                     R.append(best_recapping_sentence)
